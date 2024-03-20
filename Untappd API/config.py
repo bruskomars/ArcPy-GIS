@@ -1,1 +1,0 @@
-credentials = {"client_id":"put client id here", "client_secret":"put client secret here"}
